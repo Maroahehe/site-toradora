@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aisaka Taiga - Toradora!</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Aisaka Taiga - Toradora!</h1>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="#curiosidades">Curiosidades</a></li>
+            <li><a href="#filmes">Filmes/Livros</a></li>
+            <li><a href="#tabela">Datas de Lançamento</a></li>
+            <li><a href="#galeria">Galeria de Vídeos</a></li>
+        </ul>
+    </nav>
+    <section id="curiosidades">
+        <h2>Curiosidades sobre Toradora!</h2>
+        <p>Toradora! é um anime baseado na série de light novels escrita por Yuyuko Takemiya. A história foca na vida escolar de Ryuuji Takasu e Taiga Aisaka.</p>
+        <p>Aisaka Taiga é conhecida como a "Palm-top Tiger" (ou "Tigre de bolso") devido à sua baixa estatura e personalidade feroz.</p>
+        <p>O anime estreou em 2008 e rapidamente ganhou popularidade por sua mistura de comédia e drama.</p>
+                  
+                       Irisation ost
+        <audio controls>
+            <source src="../../../Submitted%20files/MARIA%20LUISA%20MENDON�A/Desafio%206/toradora-Irisation.mp3" type="audio/mp3">
+       --------------------------------------
+        </audio>
+                  Lost My Pieces ost
+        <audio controls>
+            <source src="../../../Submitted%20files/MARIA%20LUISA%20MENDON�A/Desafio%206/Toradora_lost-my-pieces.mp3" type="audio/mp3">
+           
+        </audio>
+
+    </section>
+
+    <section id="filmes">
+        <h2>Filmes/Livros</h2>
+        <ul>
+            <li>Toradora! Volume 1</li>
+            <li>Toradora! Volume 2</li>
+            <li>Toradora! Volume 3</li>
+            <li>Toradora! Volume 4</li>
+            <li>Toradora! Volume 5</li>
+        </ul>
+    </section>
+    <section id="tabela">
+        <h2>Datas de Lançamento dos Livros</h2>
+        <table>
+            <tr>
+                <th>Volume</th>
+                <th>Data de Lançamento</th>
+            </tr>
+            <tr>
+                <td>Volume 1</td>
+                <td>10 de março de 2006</td>
+            </tr>
+            <tr>
+                <td>Volume 2</td>
+                <td>10 de setembro de 2006</td>
+            </tr>
+            <tr>
+                <td>Volume 3</td>
+                <td>10 de dezembro de 2006</td>
+            </tr>
+            <tr>
+                <td>Volume 4</td>
+                <td>10 de maio de 2007</td>
+            </tr>
+            <tr>
+                <td>Volume 5</td>
+                <td>10 de agosto de 2007</td>
+            </tr>
+        </table>
+    </section>
+    <section id="galeria">
+        <h2>Galeria de Vídeos</h2>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/CzOEMJSQRZU?si=VUhKKAUR-S6Shnth" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/PEqi9z2Ups8?si=nMa2czjwC7AjZl95" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </section>
+
+       
+</body>
+</html>
